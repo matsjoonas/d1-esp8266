@@ -3,5 +3,7 @@
 
 extern const char* env_ssid;
 extern const char* env_password;
+extern const char* env_api_base_url;
+extern const char* env_api_sha1_fingerprint;
 
 #endif
